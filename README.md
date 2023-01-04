@@ -1,5 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,19&height=140&section=header&text=Changmin%20LEE&fontSize=70&fontAlign=70)
 
+
+<div align="center">
+<h3> <b>🏆 Baekjoon solved rank 🏆</b> <h3>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals0204)](https://solved.ac/dlckdals0204/)
+</div><br/>
+
 <div align="center">
     <h3> ⚒️ <b>Tech Stacks<b/> ⚒️ <h3/>
 <div/>
@@ -24,10 +31,3 @@
     <a href="https://sideotod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-000000?&logo=Tistory&logoColor=white"/></a>    
     <a href="https://sideotod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
 <div/><br>
-
-<br>
-<div align="center">
-<p>🏆 Baekjoon solved rank 🏆</p>
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals0204)](https://solved.ac/dlckdals0204/)
-</div># sideotod
