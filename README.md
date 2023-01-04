@@ -2,14 +2,14 @@
 
 
 <div align="center">
-<h3> <b>🏆 Baekjoon solved rank 🏆</b> <h3>
+<h2> <b>🏆 Baekjoon solved rank 🏆</b> </h2>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals0204)](https://solved.ac/dlckdals0204/)
 </div>
 
 <div align="center">
-    <h3> ⚒️ <b>Tech Stacks<b/> ⚒️ <h3/>
-<div/>
+    <h2> ⚒️ <b>Tech Stacks</b> ⚒️ </h2>
+</div>
 
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black">
@@ -20,14 +20,14 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <br>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black"> 
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black">
-<div/>
+</div><br/>
 
 <div align="center">
-    📄 <b>Infomation</b> 📄
-<div/>
+    <h2>📄 <b>Infomation</b> 📄</h2>
+</div>
 
 <div align="center">
     <a href="https://github.com/sideotod" target="_blank"><img src="https://img.shields.io/badge/Github-181717?&logo=Github&logoColor=white"/></a>
     <a href="https://sideotod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-000000?&logo=Tistory&logoColor=white"/></a>    
     <a href="https://sideotod.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?&logo=Instagram&logoColor=white"/></a>
-<div/><br>
+</div><br>
