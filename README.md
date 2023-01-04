@@ -5,7 +5,7 @@
 <h3> <b>🏆 Baekjoon solved rank 🏆</b> <h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlckdals0204)](https://solved.ac/dlckdals0204/)
-</div><br/>
+</div>
 
 <div align="center">
     <h3> ⚒️ <b>Tech Stacks<b/> ⚒️ <h3/>
@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=black"> <br>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=black"> 
     <img src="https://img.shields.io/badge/Google Colab-F9AB00?style=for-the-badge&logo=Google Colab&logoColor=black">
-<div/><br/>
+<div/>
 
 <div align="center">
     📄 <b>Infomation</b> 📄
